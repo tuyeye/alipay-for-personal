@@ -3,6 +3,6 @@
 
 自助申请使用：http://www.sanqii.cn/alipay/request 
 
-api 文档：https://github.com/tuyeye/bian-alipay
+api 与文档介绍：https://github.com/tuyeye/bian-alipay
 
 
